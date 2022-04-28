@@ -2,8 +2,9 @@
 #include <ESP8266HTTPClient.h>                                                                    
 
 /*------------CONFIG------------*/     
-#define WIFI_SSID "YOUR_WIFI"                                          
-#define WIFI_PASSWORD "******"      
+#define WIFI_SSID "hassan"                                          
+#define WIFI_PASSWORD "30000008
+"      
 
 String FireBaseUrl = "https://esp-fire-test-default-rtdb.europe-west1.firebasedatabase.app";           
 String FireBaseSecret = "VeHg1m09vzWZI2w***************kl2W3Sk8T3";
